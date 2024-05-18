@@ -89,8 +89,8 @@ async def start_command(client: Client, message: Message):
             [          
                 [
                     InlineKeyboardButton( "Main Channel", url = "https://t.me/Mugiwara_Anime_Academy" ),
-                    InlineKeyboardButton("Source Code", url = "https://t.me/+nrNgQ7sT3XQxZTc1")
-                ], [ InlineKeyboardButton("Bot Update", url = "https://t.me/Publicfille") ],
+                    InlineKeyboardButton("Source Code", url = "https://telegra.ph/Source-Code-09-14-3")
+                ], [ InlineKeyboardButton("Bot Update", url = "https://t.me/apna_akatsuki") ],
                 [
                     InlineKeyboardButton("🤖 About Me", callback_data = "about"),
                     InlineKeyboardButton("🔒 Close", callback_data = "close")
